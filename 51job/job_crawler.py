@@ -7,7 +7,6 @@ from socket import timeout
 import re
 import tkinter as tk
 from openpyxl import Workbook
-from openpyxl import load_workbook
 from bs4 import BeautifulSoup
 
 
